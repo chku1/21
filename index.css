@@ -1,0 +1,30 @@
+header {
+  height: 150px;
+  background-color: rgb(132, 89, 187);
+  text-align: center;
+}
+
+footer {
+  height: 100px;
+  background-color: rgb(132, 89, 187);
+  text-align: center;
+}
+nav {
+  height: 20px;
+}
+img {
+  width: 100px;
+}
+#btnGame {
+  display: none;
+}
+#game,
+#chemi {
+  font-size: 30px;
+  font-weight: bold;
+  color: rgb(252, 149, 226);
+}
+
+#result {
+  color: rgb(122, 15, 108);
+}
